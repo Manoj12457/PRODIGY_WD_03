@@ -144,7 +144,7 @@ var TicTacToe = {
 }
 
 function navigatetohome() {
-    window.location.href="home.html"
+    window.location.href="index.html"
 }
 
 // ... (existing code)
