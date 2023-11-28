@@ -130,10 +130,10 @@ function startGame() {
     if (selectedMode === 'single') {
         window.location.href = 'index2.html';
     } else if (selectedMode === 'two') {
-        window.location.href = 'index.html'; // or specify the correct HTML file for two players
+        window.location.href = 'index1.html'; // or specify the correct HTML file for two players
     }
 }
 
 function navigatetohome() {
-    window.location.href="home.html"
+    window.location.href="index.html"
 }
